@@ -83,10 +83,21 @@ h1 {
     color: black;
     text-align: center;
     box-sizing: border-box;
-    border: 2px solid black;
+    border: 2px solid gray;
     height: 200px;
     width: 200px;
     padding: 80px;
     box-shadow: #474444 20px 20px 0px 10px;
-
+    margin: 20px;
+}
+.B {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 10px 10px;
 }
