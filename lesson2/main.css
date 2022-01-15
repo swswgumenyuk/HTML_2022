@@ -1,5 +1,5 @@
 h1 {
-    background: #801212;
+    background: rgba(141, 28, 28, 0.98);
     color: antiquewhite;
     text-align: center;
 }
@@ -20,7 +20,7 @@ h1 {
     width: 300px;
 }
 .d {
-    background: #8a749e;
+    background: #a293b3;
     height: 300px;
     width: 300px;
     border-radius: 20px;
@@ -88,7 +88,7 @@ h1 {
     width: 200px;
     padding: 80px;
     box-shadow: #474444 20px 20px 0px 10px;
-    margin: 20px;
+    margin: 50px;
 }
 .B {
     background: darkorange;
@@ -100,4 +100,55 @@ h1 {
     width: 200px;
     padding: 80px;
     box-shadow: #474444 20px 20px 10px 10px;
+    margin: 50px;
+}
+.C {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 20px 15px;
+    margin: 50px;
+}
+.D {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 40px 10px;
+    margin: 50px;
+}
+.E {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 20px 15px;
+    margin: 50px;
+}
+.F {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 40px 10px;
+    margin: 50px;
 }
