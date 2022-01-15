@@ -30,10 +30,63 @@ h1 {
     height: 400px;
     width: 800px;
     margin-top: 100px;
+    box-shadow: #e0c9ae -25px -30px 30px 10px;
 
 }
 .f {
     border-left: 5px solid red;
     padding-left: 20px;
     width: 300px;
+}
+.aa {
+    color: darkorange;
+    text-align: center;
+    padding-top: 10px;
+    border: 5px solid darkorange;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.bb {
+    color: #4bf3f3;
+    text-align: center;
+    padding-top: 10px;
+    border: 5px solid  #4bf3f3;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.cc {
+    color: deeppink;
+    text-align: center;
+    padding-top: 10px;
+    border: 5px solid deeppink;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.dd {
+    color: red;
+    text-align: center;
+    padding-top: 10px;
+    border: 5px solid red;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.A {
+    background: darkorange;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    box-shadow: #474444 20px 20px 0px 10px;
+
 }
