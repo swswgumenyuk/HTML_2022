@@ -18,11 +18,9 @@
 }
 .xxx {
     box-sizing: border-box;
-    /*height: 400px;*/
-    /*width: 800px;*/
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-around;
+    /*flex-wrap: nowrap;*/
+   flex-direction: row;
 }
 .aa {
     box-sizing: border-box;
