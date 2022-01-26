@@ -4,7 +4,7 @@
     width: 820px;
     border: 2px solid grey;
     border-radius: 5px;
-    padding: 5px 10px 5px 5px;
+    padding: 5px 5px 5px 5px;
 }
 .A {
     box-sizing: border-box;
@@ -16,13 +16,13 @@
     justify-content: center;
     padding-top: 100px;
 }
-.aa.F {
+.xxx {
     box-sizing: border-box;
     /*height: 400px;*/
     /*width: 800px;*/
     display: flex;
-    flex-direction: row ;
-    align-items: flex-start;
+    flex-wrap: nowrap;
+    justify-content: space-around;
 }
 .aa {
     box-sizing: border-box;
